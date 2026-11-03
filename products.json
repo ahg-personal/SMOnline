@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16",
+    "price": 69999
+  },
+  {
+    "id": 2,
+    "name": "Samsung TV",
+    "price": 45000
+  },
+  {
+    "id": 3,
+    "name": "PlayStation 5",
+    "price": 34990
+  }
+]
